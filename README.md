@@ -6,7 +6,7 @@
 <div>
 <a href="https://github.com/victorNascimentoAguiar"> 
 <img height="145em" src="https://github-readme-stats.vercel.app/api?username=victorNascimentoAguiar&show_icons=true&theme=midnight-purple&count_private=true">
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorNascimentoAguiar&layout=compact&langs_count=7&theme=github_dark">
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorNascimentoAguiar&layout=compact&langs_count=7&theme=midnight-purple">
 </div>
 
 ## Tecnologias que estou estudando
