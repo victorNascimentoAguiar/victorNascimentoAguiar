@@ -23,4 +23,4 @@
 
 ![Snake animation](https://github.com/victorNascimentoAguiar/victorNascimentoAguiar/blob/output/github-contribution-grid-snake.svg)
 
-Apaixonado por tecnologia, sempre buscando aprender mais e mergulhar em novas programções.
+Apaixonado por tecnologia, sempre buscando aprender mais e mergulhar em novos desafios.
